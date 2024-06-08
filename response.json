@@ -1,0 +1,201 @@
+{
+  "subjects": [
+    {
+      "subject": "Design and Analysis of Algorithms Lab",
+      "subject_uuid": "design-and-analysis-of-algorithms-lab",
+      "assignments_count": 21
+    },
+    {
+      "subject": "Cryptography and Network Security",
+      "subject_uuid": "cryptography-and-network-security",
+      "assignments_count": 20
+    },
+    {
+      "subject": "Probability and Queueing Theory",
+      "subject_uuid": "probability-and-queueing-theory",
+      "assignments_count": 19
+    },
+    {
+      "subject": "Database Management Systems",
+      "subject_uuid": "database-management-systems",
+      "assignments_count": 19
+    },
+    {
+      "subject": "Artificial Intelligence",
+      "subject_uuid": "artificial-intelligence",
+      "assignments_count": 17
+    },
+    {
+      "subject": "Design and Analysis of Algorithms",
+      "subject_uuid": "design-and-analysis-of-algorithms",
+      "assignments_count": 12
+    },
+    {
+      "subject": "Computer Graphics and Animation",
+      "subject_uuid": "computer-graphics-and-animation",
+      "assignments_count": 8
+    },
+    {
+      "subject": "Social Engineering",
+      "subject_uuid": "social-engineering",
+      "assignments_count": 6
+    },
+    {
+      "subject": "Internet Of things",
+      "subject_uuid": "internet-of-things",
+      "assignments_count": 6
+    },
+    { "subject": "UHV-II", "subject_uuid": "uhv-ii", "assignments_count": 5 },
+    { "subject": "General", "subject_uuid": "general", "assignments_count": 5 },
+    {
+      "subject": "Operating Systems",
+      "subject_uuid": "operating-systems",
+      "assignments_count": 5
+    },
+    {
+      "subject": "Probability and Applied Statistics",
+      "subject_uuid": "probability-and-applied-statistics",
+      "assignments_count": 3
+    },
+    {
+      "subject": "Probability and Statistics",
+      "subject_uuid": "probability-and-statistics",
+      "assignments_count": 2
+    },
+    { "subject": "OOP", "subject_uuid": "oop", "assignments_count": 1 },
+    {
+      "subject": "Digital Image Processing",
+      "subject_uuid": "digital-image-processing",
+      "assignments_count": 1
+    },
+    { "subject": "FAI lab", "subject_uuid": "fai-lab", "assignments_count": 1 },
+    {
+      "subject": "Numericals methods and analysis",
+      "subject_uuid": "numericals-methods-and-analysis",
+      "assignments_count": 1
+    },
+    {
+      "subject": "Programming in Java",
+      "subject_uuid": "programming-in-java",
+      "assignments_count": 0
+    },
+    {
+      "subject": "AI and Industrial Iot",
+      "subject_uuid": "ai-and-industrial-iot",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Quantum Computation",
+      "subject_uuid": "quantum-computation",
+      "assignments_count": 0
+    },
+    {
+      "subject": "GPU Powered Computation",
+      "subject_uuid": "gpu-powered-computation",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Information Security",
+      "subject_uuid": "information-security",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Artificial Intelligence of Things",
+      "subject_uuid": "artificial-intelligence-of-things",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Critical and Creative Thinking Skills",
+      "subject_uuid": "critical-and-creative-thinking-skills",
+      "assignments_count": 0
+    },
+    {
+      "subject": "General Aptitude",
+      "subject_uuid": "general-aptitude",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Chemistry",
+      "subject_uuid": "chemistry",
+      "assignments_count": 0
+    },
+    { "subject": "German", "subject_uuid": "german", "assignments_count": 0 },
+    {
+      "subject": "Computational Biology",
+      "subject_uuid": "computational-biology",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Advanced Calculus",
+      "subject_uuid": "advanced-calculus",
+      "assignments_count": 0
+    },
+    { "subject": "French", "subject_uuid": "french", "assignments_count": 0 },
+    {
+      "subject": "Machine learning and neural networks",
+      "subject_uuid": "machine-learning-and-neural-networks",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Foundation of Artificial Intelligence",
+      "subject_uuid": "foundation-of-artificial-intelligence",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Software Process",
+      "subject_uuid": "software-process",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Compiler Design",
+      "subject_uuid": "compiler-design",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Foundation of AI",
+      "subject_uuid": "foundation-of-ai",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Neural Networks and ML",
+      "subject_uuid": "neural-networks-and-ml",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Electrical And Electronics Engineering",
+      "subject_uuid": "electrical-and-electronics-engineering",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Semiconductor Physics",
+      "subject_uuid": "semiconductor-physics",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Communicative English",
+      "subject_uuid": "communicative-english",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Engineering Graphics And Design",
+      "subject_uuid": "engineering-graphics-and-design",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Constitution Of India",
+      "subject_uuid": "constitution-of-india",
+      "assignments_count": 0
+    },
+    {
+      "subject": "Environmental Sciences",
+      "subject_uuid": "environmental-sciences",
+      "assignments_count": 0
+    },
+    {
+      "subject": "NNML lab",
+      "subject_uuid": "nnml-lab",
+      "assignments_count": 0
+    },
+    { "subject": "OS Lab", "subject_uuid": "os-lab", "assignments_count": 0 }
+  ]
+}
